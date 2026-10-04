@@ -11,7 +11,7 @@
 
 //     PUBLIC CAPABILITIES:
 //         METHOD loadProduceDB(filepath) RETURNS Boolean
-//         METHOD loadChamberConfig(filepath) RETURNS Boolean
+//         METHOD loadChamberConfig(filepath) RETURNS Boolean 
 
 //         // NEW: Getters that return the ENTIRE dictionary for iteration
 //         METHOD getAllProduce() RETURNS Read-Only Reference to m_produce_db
